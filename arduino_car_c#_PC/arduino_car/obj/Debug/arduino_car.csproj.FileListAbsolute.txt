@@ -1,0 +1,9 @@
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\bin\Debug\arduino_car.exe.config
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\bin\Debug\arduino_car.exe
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\bin\Debug\arduino_car.pdb
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\obj\Debug\arduino_car.csprojResolveAssemblyReference.cache
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\obj\Debug\arduino_car.Form1.resources
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\obj\Debug\arduino_car.Properties.Resources.resources
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\obj\Debug\arduino_car.csproj.GenerateResource.Cache
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\obj\Debug\arduino_car.exe
+c:\users\nobat\documents\visual studio 2015\Projects\arduino_car\arduino_car\obj\Debug\arduino_car.pdb
