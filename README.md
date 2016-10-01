@@ -7,4 +7,4 @@ https://123d.circuits.io/circuits/1502072-car
 #
 ![GitHub Logo](https://raw.githubusercontent.com/NFAteam/arduino_car_control/master/circuit%20arduino_l293D.png)
 
-<iframe frameborder='0' height='448' marginheight='0' marginwidth='0' scrolling='no' src='https://circuits.io/circuits/1502072-car/embed#pcb' width='650'></iframe>
+<iframe frameborder='0' height='448' marginheight='0' marginwidth='0' scrolling='no' src='https://circuits.io/circuits/1502072-car/embed#schematic' width='650'></iframe>
