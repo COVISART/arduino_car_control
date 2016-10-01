@@ -8,6 +8,6 @@ https://123d.circuits.io/circuits/1502072-car
 ![GitHub Logo](https://raw.githubusercontent.com/NFAteam/arduino_car_control/master/circuit%20arduino_l293D.png)
 <table>
     <tr>
-        <td>Foo</td>
+        <td>https://circuits.io/circuits/1502072-car</td>
     </tr>
 </table>
